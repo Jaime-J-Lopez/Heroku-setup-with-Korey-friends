@@ -1,0 +1,6 @@
+## Python pipenv
+.env
+.venv
+venv/
+.theia
+.theia/
